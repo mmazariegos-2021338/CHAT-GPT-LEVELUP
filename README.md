@@ -1,4 +1,4 @@
-# Talkbot App
+# Level GPT  App
 
 A conversational AI app inspired by OpenAI's GPT-3 language model, built with Create React App.
 
@@ -73,11 +73,7 @@ node index.js
 
 - Check if your server application run on port 4000
 
-## Contribution
 
-All contributions are welcome. Feel free to open an issue or create a pull request. And I will be more than happy for sponsors.
-
-<a href="https://www.buymeacoffee.com/sushantdhimal" target="_blank"><img src="./client/public/buymeacoffee.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
 ## Liscence
 
