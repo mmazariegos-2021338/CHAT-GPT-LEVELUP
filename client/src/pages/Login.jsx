@@ -24,8 +24,8 @@ const Login = () => {
         <div className="loginContainer">
           <div className="loginContainerContent">
             <SvgComponent w={50} h={50} />
-            <h1>Welcome to Talkbot</h1>
-            <p>Your Ultimate AI Assistant</p>
+            <h1>Welcome level GPT</h1>
+            <p>Your AI Assistant</p>
             <div className="loginButtonWrapper">
               <Button text="Log in" handleClick={() => handleClick("login")} />
               <Button

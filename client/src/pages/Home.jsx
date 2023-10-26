@@ -87,7 +87,7 @@ const Home = () => {
             </svg>
           </button>
         </div>
-        <h1>TalkBot</h1>
+        <h1>Level Up GTP</h1>
       </header>
 
       {showMenu && (

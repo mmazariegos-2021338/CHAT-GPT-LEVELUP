@@ -9,7 +9,7 @@ const BotResponse = ({ response, chatLogRef }) => {
   useEffect(() => {
     let index = 1;
     let msg = setInterval(() => {
-      if (response !== " - The Ultimate AI Assistant") {
+      if (response !== " - The AI Assistant") {
         setIsButtonVisible(true);
       }
       if (!isPrinting) {
