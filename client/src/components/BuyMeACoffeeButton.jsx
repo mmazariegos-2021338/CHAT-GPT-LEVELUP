@@ -2,7 +2,7 @@ import React from "react";
 
 const GenerateDocumentButton = () => {
   const style = {
-    backgroundColor: "#007BFF",
+    backgroundColor: "#000000",
     color: "#FFFFFF",
     border: "none",
     borderRadius: "4px",
